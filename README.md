@@ -126,6 +126,9 @@ Encerramos el bloque de código con las tres tildes al revez ``` y le ponemos al
 
 ```
 
+Más información y ejemplos en este artículo: [Que es markdown, para que sirve y como usarlo](http://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
+
+
 ### FAQs
 
 #### ¿Porque debería documentar todo lo que aprendo?
