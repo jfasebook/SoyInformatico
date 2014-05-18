@@ -7,7 +7,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 - [Objetivos](#objetivos).
 - [¿Como funciona?](#como-funciona).
 - [Contribuir](#contribuir).
-- [Tips de sintaxis para dar estilo a los README](#tips-de-sintaxis-para-dar-estilo-a-los-readme).
+- [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme).
 - [FAQs](#faqs).
   - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
@@ -34,8 +34,29 @@ Utiliza las opciones de GitHub como **Pull Request** o un **Fork** para colabora
 
 Adicionalmente, se esta creando un sitio web, por ahora con el único objetivo de dar a conocer lo que estamos haciendo aquí a Universidades, foros, etc... El enlace es: [wwww.soyinformatico.org](http://www.soyinformatico.org)
 
-### Tips de sintaxis para dar estilo a los README
+### Tips de sintaxis para dar formato a los README
 
+Los archivos README.md tienen formato de lenguaje de marcado `markdown` que es mucho más sencillo que el lenguaje `HTML`. Veamos algunos ejemplo:
+
+```plain
+# Esto es un H1
+## Esto es un H2
+### Esto es un H3
+#### Esto es un H4
+
+```
+
+`*Esto es cursiva*`
+
+`**Esto es negrilla**`
+
+```plain
+
+- Esto es viñeta 1.
+  - Viñeta 1.1 con sangria.
+  - Viñeta N.
+  
+```
 
 ### FAQs
 
