@@ -20,7 +20,7 @@ El archivo `README.md` tiene la siguiente arquitectura de la información que de
 
 Utiliza las opciones de GitHub como **Pull Request** o un **Fork** para colaborar con el proyecto:
 
-**Fork**: Hace un clon de este repositorio en tu cuenta de GitHub. En el podrás hacer modificaciones o simplemente para tener una copia (con opción de clonarlo a tu PC también). De esa forma garantizas tu información para tu uso personal.
+**Fork**: Hace un clon de este repositorio en tu cuenta de GitHub. En el podrás hacer modificaciones o simplemente para tener una copia (con opción de clonarlo a tu PC también). De esa forma garantizas la información para tu uso personal.
 
 **Pull Request**: Envía la sugerencias de cambio para este repositorio, los cuales hicistes en tu clon. Si son aceptadas por el master, se fucionan los cambios y el repositorio del proyecto queda actualizado.
 
