@@ -9,7 +9,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 - [Contribuir](#contribuir).
 - [Tips de sintaxis para dar estilo a los README](#tips-de-sintaxis-para-dar-estilo-a-los-readme).
 - [FAQs](#faqs).
-  - [¿Porque debería documentar todo lo que aprendo?](#https://github.com/victorhtorres/SoyInformatico/blob/master/README.md#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
+  - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
 ### Objetivos
 
