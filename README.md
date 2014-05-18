@@ -8,9 +8,17 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 - [¿Como funciona?](#como-funciona).
 - [Contribuir](#contribuir).
 - [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme).
-  - [Insertar HN](#insertar-hn)
-  - [Cursivas](#cursivas)
-  - [Negrilla](#negrilla)
+  - [Insertar HN](#insertar-hn).
+  - [Cursivas](#cursivas).
+  - [Negrilla](#negrilla).
+  - [Viñetas para tablas de contenido](#vi%C3%B1etas).
+  - [insertar imágenes](#insertar-im%C3%A1genes).
+  - [Insertar enlaces](#insertar-enlaces).
+  - [Hacer anclaje](#hacer-anclaje).
+  - [Insertar una línea de código](#hacer-anclaje).
+  - [Insertar un bloque de código](#insertar-un-bloque-de-c%C3%B3digo).
+  - [Resaltar el código](#resaltar-el-c%C3%B3digo).
+  - [Insertar tablas](#insertar-tablas).
 - [FAQs](#faqs).
   - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
