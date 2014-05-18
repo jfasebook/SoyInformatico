@@ -15,7 +15,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
   - [insertar imágenes](#insertar-im%C3%A1genes).
   - [Insertar enlaces](#insertar-enlaces).
   - [Hacer anclaje](#hacer-anclaje).
-  - [Insertar una línea de código](#hacer-anclaje).
+  - [Insertar una línea de código](#insertar-una-l%C3%ADnea-de-c%C3%B3digo).
   - [Insertar un bloque de código](#insertar-un-bloque-de-c%C3%B3digo).
   - [Resaltar el código](#resaltar-el-c%C3%B3digo).
   - [Insertar tablas](#insertar-tablas).
