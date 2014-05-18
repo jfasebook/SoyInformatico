@@ -8,6 +8,9 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 - [¿Como funciona?](#como-funciona).
 - [Contribuir](#contribuir).
 - [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme).
+  - [Insertar HN](#insertar-hn)
+  - [Cursivas](#cursivas)
+  - [Negrilla](#negrilla)
 - [FAQs](#faqs).
   - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
@@ -38,6 +41,8 @@ Adicionalmente, se esta creando un sitio web, por ahora con el único objetivo d
 
 Los archivos README.md tienen formato de lenguaje de marcado `markdown` que es mucho más sencillo que el lenguaje `HTML`. Veamos algunos ejemplo:
 
+#### Insertar HN
+
 ```plain
 # Esto es un H1
 ## Esto es un H2
@@ -46,9 +51,15 @@ Los archivos README.md tienen formato de lenguaje de marcado `markdown` que es m
 
 ```
 
+#### Cursivas
+
 `*Esto es cursiva*`
 
+#### Negrilla
+
 `**Esto es negrilla**`
+
+#### Viñetas
 
 ```plain
 
@@ -56,6 +67,55 @@ Los archivos README.md tienen formato de lenguaje de marcado `markdown` que es m
   - Viñeta 1.1 con sangria.
   - Viñeta N.
   
+```
+
+#### Insertar imágenes
+
+`![texto cualquiera por si no carga la imagen](url completa de la imagen)`
+
+#### Insertar enlaces
+
+`[texto a mostrar](url completa)`
+
+#### Hacer anclaje
+
+Usar los títulos con la almohadilla `#` y para anclar el título a una tabla de contenido, ponemos lo siguiente:
+
+`[texto a mostrar](#mi-titulo-a-anclar)`
+
+#### Insertar una línea de código
+
+Encerrar la linea de código entre la tilde al revez ` Código en ASCII: alt96
+
+Ejemplo:
+
+![formato una linea de código](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/una-linea-codigo.png?raw=true)
+
+#### Insertar un bloque de código
+
+Encerrar el bloque de código entre tres tildes al revez ``` Código en ASCII: alt96
+
+Ejemplo:
+
+![formato un bloque de código](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/bloque-codigo.png?raw=true)
+
+#### Resaltar el código
+
+Encerramos el bloque de código con las tres tildes al revez ``` y le ponemos al lado el lenguaje que se esta usando, ejemplo:
+
+![formato bloque de código resaltado](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/bloque-codigo-resaltado.png?raw=true)
+
+#### Insertar tablas
+
+```plain
+
+| TITULO1| TITULO2|
+
+| ----- | ---- |
+
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+
 ```
 
 ### FAQs
