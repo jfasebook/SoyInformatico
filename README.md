@@ -33,7 +33,26 @@ En el repositorio, las distintas áreas, campos o lenguajes de programación que
 
 El archivo `README.md` tiene la siguiente arquitectura de la información que deberás de tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
 
-![Imagen sobre estructura base del README.md](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/estructura-base-readme.png?raw=true)
+
+- Una introducción sobre la definición de la categoría, ejemplo: Java es un lenguaje de programación, etc...
+
+- Contribución: Recordando a las personas como pueden contribuir con el proyecto.
+
+- Licencia: Recordando que todo artículo publicado es bajo licencia Atribución – No comercial – Compartir igual.
+
+- Tabla de contenido [Con anclaje a cada item].
+
+	- Item 1: tema 1 de la documentación. Al final debe tener anclaje para volver al inicio de la tabla.
+	.
+	.
+	.
+	- Item N.
+
+	- Referencias externas: Todos los créditos con enlace (si requiere) de donde obtuvimos la información compartida.
+
+	- FAQs
+
+	- Créditos: Si eres aportante, deja un enlace de reconocimiento, ejemplo: tu usuario de alguna red social, pagina web, etc...
 
 ### Contribuir
 
