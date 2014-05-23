@@ -124,13 +124,26 @@ Encerrar el bloque de código entre tres tildes al revez ``` Código en ASCII: a
 
 Ejemplo:
 
-![formato un bloque de código](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/bloque-codigo.png?raw=true)
+<pre>
+		```
+		
+		//bloque de codigo...
+		
+		```
+</pre>
+
 
 #### Resaltar el código
 
 Encerramos el bloque de código con las tres tildes al revez ``` y le ponemos al lado el lenguaje que se esta usando, ejemplo:
 
-![formato bloque de código resaltado](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/bloque-codigo-resaltado.png?raw=true)
+<pre>
+		```java
+		
+		//bloque de codigo...
+		
+		```
+</pre>
 
 #### Insertar tablas
 
