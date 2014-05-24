@@ -79,5 +79,6 @@ Para hallar el n-ésimo término de una progresión aritmética, tenemos la sigu
 
 ![formula enesimo aritmetica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/formula-enesimo-artimetica.png)
 
+>La formula solo es válida para los n>=1 donde "a" es el primer término de la sucesión, "r" la razón de cambio y "n" es una variable cualquiera que se reemplaza por el número de término que se desea encontrar en la sucesión. 
 
-
+**Hallar la sumatoria de la sucesión**
