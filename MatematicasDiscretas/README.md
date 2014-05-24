@@ -74,5 +74,5 @@ Veremos como calcular el n-ésimo término de una sucesión aritmética (1, 2, 3
 **Hallar el n-ésimo término de la sucesión**
 Para hallar el n-ésimo término de una progresión aritmética, tenemos la siguiente formula:
 
-![formula enesimo aritmetica](images/formula-enesimo-artimetica.png)
+![formula enesimo aritmetica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/formula-enesimo-artimetica.png)
 
