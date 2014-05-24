@@ -116,7 +116,7 @@ Encerrar la linea de código entre la tilde al revez ` Código en ASCII: alt96
 
 Ejemplo:
 
-![formato una linea de código](https://github.com/victorhtorres/SoyInformatico/blob/master/Images/una-linea-codigo.png?raw=true)
+<pre><code>`tu linea de codigo`</code></pre>
 
 #### Insertar un bloque de código
 
