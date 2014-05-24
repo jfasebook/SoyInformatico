@@ -10,7 +10,7 @@ HTML (HyperText Markup Language), versión 5 es la quinta revisión importante d
 - [Etiqueta video](#etiqueta-video)
 - [Recomendaciones](#recomendaciones)
 - [FAQs](#faqs)
-	- [¿Cómo está compuesto un diseño web?](#)
+	- [¿Cómo está compuesto un diseño web?](#com%C3%B3-est%C3%A1-compuesto-un-dise%C3%B1o-web)
 
 ## Estructura base de un archivo en HTML5
 ```html
