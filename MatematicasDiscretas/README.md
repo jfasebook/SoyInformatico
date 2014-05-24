@@ -11,7 +11,7 @@ http://es.wikipedia.org/wiki/Matem%C3%A1ticas_discretas
 ## Tabla de contenido
 
 - [Progresión aritmética](#progresi%C3%B3n-aritmetica)
-- Progresión geométrica
+- [Progresión geométrica](#progresi%C3%B3n-geom%C3%A9trica)
 - Principio de inducción matemática (PIM)
 - Relaciones recursivas de una semilla
 - Relaciones recursivas de dos semillas
