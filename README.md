@@ -43,13 +43,11 @@ El archivo `README.md` tiene la siguiente arquitectura de la información que de
 
 - Tabla de contenido [Con anclaje a cada item].
 
-	- Item 1: tema 1 de la documentación. Al final debe tener anclaje para volver al inicio de la tabla.
+	- Tema 1: No olvidar poner referencias externas al final del item, para mostrar de donde se sacó la información o simplemente para ampliar dicha información.
 	.
 	.
 	.
-	- Item N.
-
-	- Referencias externas: Todos los créditos con enlace (si requiere) de donde obtuvimos la información compartida.
+	- Tema N.
 
 	- FAQs
 
