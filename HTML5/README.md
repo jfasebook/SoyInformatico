@@ -25,7 +25,7 @@ HTML (HyperText Markup Language), versión 5 es la quinta revisión importante d
 </head>
 <body>
 	<header>
-		<H1>Uno solo por documento.</H1>
+		<h1>Uno solo por documento.</h1>
 	</header>
 	<section> 
 		<!-- permite dividir el contenido del sitio en varias secciones. Ejemplo: Un blog tiene un section para el post y otro para el gestor de comentarios -->
