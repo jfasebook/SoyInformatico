@@ -19,6 +19,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
   - [Insertar un bloque de código](#insertar-un-bloque-de-c%C3%B3digo).
   - [Resaltar el código](#resaltar-el-c%C3%B3digo).
   - [Insertar tablas](#insertar-tablas).
+  - [Referencias externas sobre markdown](#referencias-externas-sobre-markdown).
 - [FAQs](#faqs).
   - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
@@ -158,7 +159,9 @@ Encerramos el bloque de código con las tres tildes al revez ``` y le ponemos al
 
 ```
 
-#### Más información y ejemplos sobre markdown
+#### Referencias externas sobre Markdown
+
+Para mayor información sobre la sintaxis del markdown:
 
 http://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 
