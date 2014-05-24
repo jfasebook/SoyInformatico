@@ -3,14 +3,14 @@ HTML (HyperText Markup Language), versión 5 es la quinta revisión importante d
 
 ## Tabla de contenido
 
-- (Estructura base de un archivo en HTML5)[#estructura-base-de-un-archivo-en-html5]
-- (LLamar un archivo CSS)[#llamar-un-archivo-css]
-- (Llamar un archivo JS)[#llamar-un-archivo-js]
-- (Etiqueta figure)[#etiqueta-figure]
-- (Etiqueta video)[#etiqueta-video]
-- (Recomendaciones[#recomendaciones])
-- (FAQs)[#faqs]
-	- (¿Cómo está compuesto un diseño web?)[#]
+- [Estructura base de un archivo en HTML5](#estructura-base-de-un-archivo-en-html5)
+- [LLamar un archivo CSS](#llamar-un-archivo-css)
+- [Llamar un archivo JS](#llamar-un-archivo-js)
+- [Etiqueta figure](#etiqueta-figure)
+- [Etiqueta video](#etiqueta-video)
+- [Recomendaciones](#recomendaciones)
+- [FAQs](#faqs)
+	- [¿Cómo está compuesto un diseño web?](#)
 
 ## Estructura base de un archivo en HTML5
 ```html
