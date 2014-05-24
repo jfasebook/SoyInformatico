@@ -82,3 +82,14 @@ Para hallar el n-ésimo término de una progresión aritmética, tenemos la sigu
 >La formula solo es válida para los n>=1 donde "a" es el primer término de la sucesión, "r" la razón de cambio y "n" es una variable cualquiera que se reemplaza por el número de término que se desea encontrar en la sucesión. 
 
 **Hallar la sumatoria de la sucesión**
+
+Para hallar la suma de una sucesión aritmética, usamos la siguiente fórmula:
+
+![formula sucesion aritmetica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/formula-suma-sucesion-artimetica.png)
+
+>Donde "n" es una constante que sirve para reemplazarla por la cantidad de términos que se desea sumar. La letra "a" hace referencia al primer término de la sucesión y "Tn" es el término general o n-ésimo de la sucesión.
+
+Ejemplo:
+
+![Ejemplo 1 sobre progresión aritmetica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/ejemplo-1-progresion-aritmetica.png)
+
