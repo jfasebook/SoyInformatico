@@ -99,4 +99,46 @@ Nota: este ejemplo se realizó con la aplicación de google chrome Daum Equation
 Hallar\quad el\quad n-esimo\quad termino\quad y\quad la\quad suma\quad de\quad la\quad siguente\quad secuencia:\\ \\ 1\quad +\quad 3\quad +\quad 5\quad +\quad 7\quad +\quad 9...\quad +\quad (\quad \quad \quad \quad \quad )\quad =\quad (\quad \quad \quad \quad \quad )\\ \\ Solución:\\ \\ Primero\quad hallemos\quad el\quad termino\quad n-esimo:\\ \\ Sabemos\quad que\quad la\quad r\quad =\quad 2\quad y\quad a\quad =\quad 1\quad y\quad eso\quad lo\quad podemos\quad visualizar\quad en\quad la\quad secuencia...\\ Entonces\\ \\ { t }_{ n\quad  }\quad =\quad a\quad +\quad (n-1)r\\ \qquad =\quad 1\quad +\quad (n-1)2\\ \qquad =\quad 1\quad +\quad 2n-2\\ { t }_{ n }\quad =\quad 2n-1\\ \\ Ya\quad tenemos\quad el\quad n-esimo\quad termino:\quad 1\quad +\quad 3\quad +\quad 5\quad +\quad 7\quad +\quad 9...\quad +\quad 2n-1\quad =\quad (\quad \quad \quad \quad )\\ \\ Ahora\quad hallamos\quad la\quad suma\quad de\quad los\quad n-terminos:\\ \\ { S }_{ n }\quad \quad =\quad \frac { n\quad ({ a }_{ 1 }\quad +\quad { t }_{ n }) }{ 2 } \\ \qquad \quad =\quad \frac { n\quad (1\quad +\quad 2n-1) }{ 2 } \\ \qquad \quad =\quad \frac { n\quad (2n) }{ 2 } \\ { S }_{ n }\quad \quad =\quad { n }^{ 2 }\\ \\ Por\quad lo\quad tanto\quad la\quad secuencia\quad queda\quad así:\\ \\ 1\quad +\quad 3\quad +\quad 5\quad +\quad 7\quad +\quad 9\quad +\quad ...\quad +\quad (2n-1)\quad =\quad { n }^{ 2 }\\ 
 ```
 
+
 >Computacionalmente, podemos usar la formula del n-esimo termino para irlo acomulando en un ciclo y tener la suma de los n-terminos, pero no sería una solución eficiente. Para eso, usamos la formula cerrada de la suma de n-terminos y utilizariamos menos recursos de la maquina para tener la solución.
+
+## Progresión geométrica
+
+Una progresión geométrica es una secuencia en la que el elemento se obtiene multiplicando el elemento anterior por una constante denominada razón o factor de la progresión.
+
+**Hallar el término n-esimo**:
+
+![Formula progresión geométrica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/formula-progresion-geometrica.png)
+
+Donde "a" es el primer término y "r" la razón.
+
+Nota: Código fuente de la formula en Daum Equation Editor:
+
+```plain
+{ T }_{ n }\quad =\quad a{ r }^{ n-1 }\\ \\ ó\\ \\ \left\{ { T }_{ 1 }\quad =\quad { a }_{ 1 }\\ { T }_{ n }\quad =\quad { T }_{ (n-1) }r \right \quad para\quad los\quad n>=2
+```
+
+
+**Hallar la suma de los n-terminos**:
+
+![Formula suma progresión geométrica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/formula-suma-termino-progresion-geometrica.png)
+
+Código de la formula en Daum Equation Editor:
+
+```plain
+{ S }_{ n }\quad =\quad \frac { a\quad (1\quad -{ \quad r }^{ n }) }{ 1-r } \quad para\quad 0\quad <=\quad r\quad <\quad 1\\ \\ ó\\ \\ { S }_{ n }\quad =\quad \frac { a\quad ({ r }^{ n }\quad -\quad 1) }{ r-1 } \quad para\quad r\quad >\quad 1
+```
+
+Ejemplo:
+
+![Ejemplo progresión geométrica](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/MatematicasDiscretas/Images/ejemplo-1-progresion-geometrica.png)
+
+Código fuente de la formula en Daum Equation Editor:
+
+```plain
+
+Hallar\quad el\quad n-esimo\quad término\quad y\quad la\quad suma\quad de\quad n-terminos\quad de\quad la\quad siguiente\quad sucesión:\\ \\ 5\quad +\quad 15\quad +\quad 45\quad +\quad ...\quad +\quad (\quad \quad \quad \quad \quad \quad )\quad =\quad (\quad \quad \quad \quad \quad \quad )\\ \\ Solución:\\ \\ Sabemos\quad que\quad r\quad =\quad 3\quad y\quad a\quad =\quad 5\\ \\ Hallemos\quad el\quad n-esimo\quad termino:\\ \\ { T }_{ n }\quad \quad =\quad a{ r }^{ n-1 }\\ { T }_{ n }\quad \quad =\quad 5\quad *\quad { 3 }^{ n-1 }\\ \\ Por\quad lo\quad tanto\quad quedaría\quad así:\\ \\ 5\quad +\quad 15\quad +\quad 45\quad +\quad ...\quad +\quad { (3 }^{ n-1 }\quad *\quad 5)\quad =\quad (\quad \quad \quad \quad \quad \quad )\\ \\ Ahora,\quad hallemos\quad la\quad suma\quad de\quad los\quad n-terminos:\\ \\ Como\quad r\quad >\quad 1,\quad entonces:\\ \\ { S }_{ n }\quad =\quad \frac { a\quad ({ r }^{ n }\quad -\quad 1) }{ r-1 } \\ \\ { S }_{ n\quad =\quad  }\frac { 5\quad (\quad { 3 }^{ n }\quad -\quad 1) }{ 3-1 } \\ \\ { S }_{ n\quad =\quad  }\frac { 5\quad *\quad { 3 }^{ n }\quad -\quad 5 }{ 2 } \\ \\ Por\quad lo\quad tanto,\quad la\quad secuencia\quad queda\quad así:\\ \\ 5\quad +\quad 15\quad +\quad 45\quad +\quad ...\quad +\quad { (3 }^{ n-1 }\quad *\quad 5)\quad =\quad \frac { 5\quad *\quad { 3 }^{ n }\quad -\quad 5 }{ 2 } 
+
+```
+
+
