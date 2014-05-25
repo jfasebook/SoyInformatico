@@ -6,7 +6,7 @@ CSS significa hoja de estilos en cascada y sirve para darle estilo y formato a l
 
 - Propiedades en CSS
  - [Over flow](#propiedad-overflow)
- - [Border radius](propiedad-border-radius)
+ - [Border radius](#propiedad-border-radius)
  - Float
  - Display
  - Position
