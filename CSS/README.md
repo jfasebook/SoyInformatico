@@ -5,8 +5,8 @@ CSS significa hoja de estilos en cascada y sirve para darle estilo y formato a l
 ## Tabla de contenido
 
 - Propiedades en CSS
- - Over flow
- - Border radius
+ - [Over flow](#propiedad-overflow)
+ - [Border radius](propiedad-border-radius)
  - Float
  - Display
  - Position
@@ -58,3 +58,61 @@ scroll: Muestra un scroll en la capa así el contenido no sea mayor al tamaño d
 **Gráficamente se vería así**:
 
 ![valores overflow](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/overflow-values.jpg)
+
+## Propiedad border radius
+
+Permite darle estilos redondeados a las esquinas de las cajas. Esta propiedad nace en la versión CSS3.
+
+**Sintaxis**:
+
+```css
+
+#objeto 
+{
+	border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
+}
+
+```
+**Ejemplo 1**:
+
+```css
+
+border-radius:2em;
+
+// is equivalent to:
+
+border-top-left-radius:2em;
+border-top-right-radius:2em;
+border-bottom-right-radius:2em;
+border-bottom-left-radius:2em;
+
+```
+
+**Ejemplo 2**:
+
+```css
+
+border-radius: 2em 1em 4em / 0.5em 3em;
+
+// is equivalent to:
+
+border-top-left-radius: 2em 0.5em;
+border-top-right-radius: 1em 3em;
+border-bottom-right-radius: 4em 0.5em;
+border-bottom-left-radius: 1em 3em;
+
+```
+
+Los valores 0.5 y 3em del ejemplo 2, aproxima el grado de redondeo al eje x de la caja, ejemplo:
+
+`border-top-left-radius: 10em;` produce lo siguiente:
+
+![ejemplo border radius](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/border-radius-one-values.jpg)
+
+Ahora con dos valores:
+
+`border-top-left-radius: 10em 5em;` produce lo siguiente:
+
+![Ejemplo de border radius con dos valores](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/border-radius-two-values.jpg)
+
+
