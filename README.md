@@ -5,7 +5,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 
 ## Tabla de contenido
 - [Objetivos](#objetivos).
-- [¿Como funciona?](#como-funciona).
+- [¿Cómo funciona?](#como-funciona).
 - [Contribuir](#contribuir).
 - [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme).
   - [Insertar HN](#insertar-hn).
@@ -21,14 +21,14 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
   - [Insertar tablas](#insertar-tablas).
   - [Referencias externas sobre markdown](#referencias-externas-sobre-markdown).
 - [FAQs](#faqs).
-  - [¿Porque debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
+  - [¿Por qué debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
 ### Objetivos
 
 - A largo plazo cualquiera pueda aprender de la Ingeniería Informática por medio de este repositorio.
-- A mediano plazo, tener información de calidad y minimalista para poder retroalimentar o recordar partes de código, definiciones y demás sobre la Ingeniería Informática.
+- A medio plazo, tener información de calidad y minimalista para poder retroalimentar o recordar partes de código, definiciones y demás sobre la Ingeniería Informática.
 
-### ¿Como funciona?
+### ¿Cómo funciona?
 
 En el repositorio, las distintas áreas, campos o lenguajes de programación que se aprende en la Ingeniería Informática estan creados por carpetas, ejemplo: Java, C++, HTML, DISCRETAS, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
 
@@ -119,7 +119,7 @@ Ejemplo:
 
 #### Insertar un bloque de código
 
-Encerrar el bloque de código entre tres tildes al revez ``` Código en ASCII: alt96
+Encerrar el bloque de código entre tres tildes al revés ``` Código en ASCII: alt96
 
 Ejemplo:
 
@@ -134,7 +134,7 @@ Ejemplo:
 
 #### Resaltar el código
 
-Encerramos el bloque de código con las tres tildes al revez ``` y le ponemos al lado el lenguaje que se esta usando, ejemplo:
+Encerramos el bloque de código con las tres tildes al revés ``` y le ponemos al lado el lenguaje que se está usando, ejemplo:
 
 <pre>
 		```java
@@ -170,5 +170,5 @@ https://guides.github.com/features/mastering-markdown/
 
 ### FAQs
 
-#### ¿Porque debería documentar todo lo que aprendo?
+#### ¿Por qué debería documentar todo lo que aprendo?
 Garantizamos tener la información de nuestro conocimiento accesible todo el tiempo, con el objetivo de recordar partes de datos claves que necesitemos en futuros proyectos o simplemente retroalimentarnos de manera colectiva gracias a la facilidad de poder contribuir entre varias personas con el proyecto.
